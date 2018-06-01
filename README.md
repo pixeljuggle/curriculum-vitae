@@ -13,3 +13,7 @@
 **Telecoms Commission Engineer** | Dec 2015 – Jun 2018
 
 - Installed and fault-found Modbus networks in enterprise environments; performed preventative maintenance on critical industrial BMS hardware.
+
+**Technical Support Team Lead** | Jun 2018 – Dec 2020
+
+- Managed a high-output engineering team; optimised departmental processes and enhanced cross-team diagnostics to meet demanding project KPIs.
