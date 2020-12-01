@@ -17,3 +17,7 @@
 **Technical Support Team Lead** | Jun 2018 – Dec 2020
 
 - Managed a high-output engineering team; optimised departmental processes and enhanced cross-team diagnostics to meet demanding project KPIs.
+
+**UX / UI Designer** | Dec 2020 – Dec 2021
+
+- Designed and prototyped a new BMS application in Figma, working closely with the R&D team to deliver a customer-ready product within strict deadlines.
