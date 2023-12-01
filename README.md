@@ -6,23 +6,27 @@
 
 **Languages:** TypeScript, JavaScript, Bash, SQL
 
-**Frameworks & Runtimes:** React, Electron, Laravel
+**Frameworks & Runtimes:** Bun, Hono, React, React Native, Electron, Laravel
 
-**Databases:** MySQL
+**Databases & Validation:** PostgreSQL, MySQL, Drizzle ORM, Zod
 
-**Frontend:** Vite, Tailwind CSS, SASS
+**State & Frontend:** TanStack Query & Router, Vite, Tailwind CSS, SASS
 
-**DevOps & Tools:** Git, Docker, Jenkins
+**DevOps & Tools:** Docker, GitLab CI/CD, Jenkins, Git, Bash
 
 **Legacy / Integration:** Modbus, Serial/IP communications, Embedded Unix
 
-**Design & Workflow:** Figma, Photoshop, Agile
+**Design & Workflow:** Figma, Photoshop, Agile, Domain-Driven Design
 
 ---
 
 ### Experience
 
-**WEMS International / Aimteq Solutions** — _Building & Energy Management Technology_
+**WEMS International / Aimteq Solutions / learnd** — _Building & Energy Management Technology_
+
+**Software Engineer** | Dec 2023 – Present
+
+- **Lead Mobile Development (Dec 2023 – Dec 2024):** Collaborated directly with the CTO as the sole mobile developer to architect and launch a cross-platform React Native BMS app. Owned the entire lifecycle from greenfield architecture and CI/CD setup to App Store releases.
 
 **Frontend Developer** | Dec 2021 – Dec 2023
 
@@ -47,6 +51,14 @@
 **Technical Support** | Jun 2010 – Dec 2015
 
 - Interrogated MySQL and embedded Unix systems via CLI to resolve complex hardware/software issues; automated routine diagnostics using Bash scripts.
+
+---
+
+### Projects & Highlights
+
+- **React Native BMS App:** Solo-led architecture and deployment of a cross-platform industrial tool. [Android](https://play.google.com/store/apps/details?id=io.learnd.mobile&pcampaignid=web_share) & [iOS](https://apps.apple.com/gb/app/learnd-se/id6476767421)
+
+- **Electron Hardware Tools:** Developed custom desktop utilities for Serial/IP hardware testing.
 
 ---
 
