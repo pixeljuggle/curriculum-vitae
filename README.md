@@ -1,6 +1,8 @@
 # Alex White
 
----
+### Professional Summary
+
+Systems-first Software Engineer with over 20 years of experience across industrial engineering, telecoms, and software development. I specialise in modernising legacy embedded systems and delivering production-ready web & mobile solutions. Experienced in full-stack TypeScript stacks (Bun, Hono, Drizzle, PostgreSQL), cross-platform React Native apps, and operational automation. Skilled at translating customer requirements into technical roadmaps and removing operational bottlenecks through pragmatic engineering.
 
 ### Technical Skills
 
@@ -22,11 +24,15 @@
 
 ### Experience
 
-**WEMS International / Aimteq Solutions / learnd** — _Building & Energy Management Technology_
-
-**Software Engineer** | Dec 2023 – Present
+**WEMS International / Aimteq Solutions / learnd** — _Building & Energy Management Technology_ **Software Engineer** | Dec 2023 – Present
 
 - **Lead Mobile Development (Dec 2023 – Dec 2024):** Collaborated directly with the CTO as the sole mobile developer to architect and launch a cross-platform React Native BMS app. Owned the entire lifecycle from greenfield architecture and CI/CD setup to App Store releases.
+
+- **Infrastructure Modernization (Jan 2025 – Present):** Leading the migration of critical telecom and embedded systems to a modern full-stack (Bun, Hono, Drizzle). Built internal services focused on type-safety and performance while providing ongoing oversight for the mobile platform.
+
+- **Full-Stack Delivery:** Engineered PostgreSQL-backed applications using Drizzle ORM and Zod for runtime schema validation, significantly reducing production errors and improving data integrity.
+
+- **Stakeholder Delivery:** Translated business requirements and hardware constraints into technical roadmaps, enabling feature delivery compatible with legacy embedded devices.
 
 **Frontend Developer** | Dec 2021 – Dec 2023
 
@@ -58,12 +64,18 @@
 
 - **React Native BMS App:** Solo-led architecture and deployment of a cross-platform industrial tool. [Android](https://play.google.com/store/apps/details?id=io.learnd.mobile&pcampaignid=web_share) & [iOS](https://apps.apple.com/gb/app/learnd-se/id6476767421)
 
+- **Bun/Hono Internal Services:** Built high-performance, type-safe backends prioritising developer experience and data integrity.
+
 - **Electron Hardware Tools:** Developed custom desktop utilities for Serial/IP hardware testing.
 
 ---
 
 ### Education
 
-**Manchester Codes — Software Development Bootcamp** | Feb 2021
+**Manchester Codes — Software Development Bootcamp** | Feb 2021Intensive 24-week course covering the full MERN stack with a focus on TDD, Pair Programming, and OOP.
 
-Intensive 24-week course covering the full MERN stack with a focus on TDD, Pair Programming, and OOP.
+---
+
+### Interests
+
+I enjoy applying my engineering background to my personal space by managing a self-hosted home automation system and a dedicated home server. My home lab acts as a private sandbox where I experiment with new runtimes and deployment strategies before implementing them professionally. I have a genuine passion for the "how and why" behind technology and am always looking for the next complex system to dismantle and understand.
